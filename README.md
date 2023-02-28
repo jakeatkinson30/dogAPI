@@ -12,8 +12,8 @@ Dog Breed Image Gallery App
   Features
 
     Users can select a dog breed from a dropdown menu.
-    Users can view images of the selected breed by clicking on a button.
-    The app displays a maximum of 10 images per breed.
+    Users can select a sub breed if one exists for that breed.
+    The app displays 10 images of that breed; the user can select 20 or 30 images from another drop down menu.
     Users can switch to a different breed by selecting a new breed from the dropdown menu.
     
  Credits
